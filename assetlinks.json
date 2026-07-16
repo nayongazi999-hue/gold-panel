@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.nayongazi999_hue.twa",
-        "sha256_cert_fingerprints": ["E7:6E:BC:54:27:A4:50:8A:C3:4B:2D:0C:2F:2E:D9:EE:28:A9:61:B1:5D:AE:96:02:8F:EE:C9:B0:56:49:9C:B1"]
-      }
-    }]
